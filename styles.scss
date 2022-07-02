@@ -6,6 +6,13 @@ body {
 .container {
   display: flex;
   gap: 50px;
+  & .left {
+    & form {
+      & #msg {
+        color: red;
+      }
+    }
+  }
   & .right {
     & #posts {
       width: 200px;

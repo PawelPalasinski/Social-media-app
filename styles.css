@@ -10,6 +10,10 @@ body {
   gap: 50px;
 }
 
+.container .left form #msg {
+  color: red;
+}
+
 .container .right #posts {
   width: 200px;
 }
