@@ -8,3 +8,5 @@ It's a simple social app - you can create, read, update or delete posts. Made ju
 * HTML
 * CSS/SCSS
 * Vanilla JavaScript
+
+### Local storage functionality to be added in the future
